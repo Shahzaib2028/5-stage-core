@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/shahzaib/Downloads/stage/chisel-tutorial/src/main/scala/riscv/Main.scala:165:13: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m		ins_decode.io.MemWrite_Input := control.io.MemWrite[0m
+[0m[[0m[31merror[0m] [0m[0m		          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shahzaib/Downloads/stage/chisel-tutorial/src/main/scala/riscv/Main.scala:166:15: ';' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  		ins_decode.io.MemRead_Input := control.io.MemRead[0m
+[0m[[0m[31merror[0m] [0m[0m  		          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

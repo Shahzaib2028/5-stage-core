@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/shahzaib/chisel-tutorial/src/test/scala/riscv/tryTests.scala:5:7: MainTests is already defined as class MainTests[0m
+[0m[[0m[31merror[0m] [0m[0mclass MainTests(c: Main) extends PeekPokeTester(c){[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
